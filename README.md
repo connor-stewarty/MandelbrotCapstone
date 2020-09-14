@@ -26,7 +26,7 @@ This is my captsone project for the Udacity C++ nanodegree course. I chose proje
 4. Run it: `./MandelbrotCapstone`.
 
 ## Rubric
-* Compiling and Testing
+* Compiling and Testing 
   * The project compiles without errors and uses cmake and make
 * Loops, Functions, I/O
   * A variety of control structures are used in the project and is organized into functions.
