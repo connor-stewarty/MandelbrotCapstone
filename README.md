@@ -35,3 +35,6 @@ This is my captsone project for the Udacity C++ nanodegree course. I chose proje
 * Object Oriented Programming
   * The project code is organized into classes with class attributes to hold the data, and class methods to perform tasks.
   * All class data members are explicitly specified as public or private.
+  
+## Credit
+https://medium.com/farouk-ounanes-home-on-the-internet/mandelbrot-set-in-c-from-scratch-c7ad6a1bf2d9
